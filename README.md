@@ -21,4 +21,10 @@ The goal is to examine and comprehend the features of unicorn businesses as well
 
 ## Data Source
 
+## Skills and Concepts
+## Modelling
+
+## Visualization
 ## Analysis
+## Conclusion
+## Recommendations
