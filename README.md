@@ -18,3 +18,7 @@ The goal is to examine and comprehend the features of unicorn businesses as well
 4. Geographical Analysis: Examine the geographical distribution of unicorn startups to find regions or nations emerging as hotspots for successful startups.
 5. Valuation Evolution: Investigate how the valuation of unicorn businesses has changed over time to gain a better understanding of the rate of growth and possible market trends.
 6. Investor Analysis: Determine the most prevalent and significant investors who back unicorn businesses in order to assess the magnitude of their support and its possible impact on success.
+
+## Data Source
+
+## Analysis
