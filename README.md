@@ -20,11 +20,15 @@ The goal is to examine and comprehend the features of unicorn businesses as well
 6. Investor Analysis: Determine the most prevalent and significant investors who back unicorn businesses in order to assess the magnitude of their support and its possible impact on success.
 
 ## Data Source
-
+The data used in the projects was obtained from [Kaggle](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups)
 ## Skills and Concepts
+* Data Cleaning
+* Data Analysis
+* Data Visualization
 ## Modelling
-
+![](https://github.com/Samuel-Njoroge/unicorn-startups-analysis/blob/main/data_modell.PNG)
 ## Visualization
+![](https://github.com/Samuel-Njoroge/unicorn-startups-analysis/blob/main/unicorn_startups_analysis_dashboard%20(2).jpg)
 ## Analysis
 ## Conclusion
 ## Recommendations
