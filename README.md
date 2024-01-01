@@ -30,5 +30,8 @@ The data used in the projects was obtained from [Kaggle](https://www.kaggle.com/
 ## Visualization
 ![](https://github.com/Samuel-Njoroge/unicorn-startups-analysis/blob/main/unicorn_startups_analysis_dashboard%20(2).jpg)
 ## Analysis
+
 ## Conclusion
+* ByteDance was the highest valuated unicorn.
+* The Enterprise Tech sector received the highest number of investments.
 ## Recommendations
