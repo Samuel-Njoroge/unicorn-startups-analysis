@@ -34,4 +34,5 @@ The data used in the projects was obtained from [Kaggle](https://www.kaggle.com/
 ## Conclusion
 * ByteDance was the highest valuated unicorn.
 * The Enterprise Tech sector received the highest number of investments.
+* The Health & Life Sciences sector is dominant in Europe.
 ## Recommendations
