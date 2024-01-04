@@ -35,5 +35,6 @@ The data used in the projects was obtained from [Kaggle](https://www.kaggle.com/
 * ByteDance was the highest valuated unicorn.
 * The Enterprise Tech sector received the highest number of investments.
 * The Health & Life Sciences sector is dominant in Europe.
+* Andreessen Horowitz is the top investor and most of his inverstments were in Enterprise Tech.
 * The year 2021 recorded the highest number of startups among all the listed years.
 ## Recommendations
