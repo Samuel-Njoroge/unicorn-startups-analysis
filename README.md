@@ -21,6 +21,11 @@ The goal is to examine and comprehend the features of unicorn businesses as well
 
 ## Data Source
 The data used in the projects was obtained from [Kaggle](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups)
+
+## Tools 
+- Power BI
+- Microsoft SQL Server
+  
 ## Skills and Concepts
 * Data Cleaning
 * Data Analysis
@@ -29,12 +34,17 @@ The data used in the projects was obtained from [Kaggle](https://www.kaggle.com/
 ![](https://github.com/Samuel-Njoroge/unicorn-startups-analysis/blob/main/data_modell.PNG)
 ## Visualization
 ![](https://github.com/Samuel-Njoroge/unicorn-startups-analysis/blob/main/unicorn_startups_analysis_dashboard%20(2).jpg)
-## Analysis
 
 ## Conclusion
-* ByteDance was the highest valuated unicorn.
-* The Enterprise Tech sector received the highest number of investments.
-* The Health & Life Sciences sector is dominant in Europe.
-* Andreessen Horowitz is the top investor and most of his inverstments were in Enterprise Tech.
-* The year 2021 recorded the highest number of startups among all the listed years.
+* `ByteDance` was the highest valuated unicorn.
+* The `Enterprise Tech` sector received the highest number of investments.
+* The `Health & Life Sciences` sector is dominant in Europe.
+* `Andreessen Horowitz` is the top investor and most of his inverstments were in `Enterprise Tech`.
+* The year `2021` recorded the highest number of startups among all the listed years.
+  
 ## Recommendations
+- Investors should prioritize the `Enterprise Tech` sector for future investments, given its high number of investments.
+- Investors should also diversify their portfolios across different sectors and regions to mitigate risks and enhance potential returns.
+- Investors should also keep an eye on emerging markets and technologies within the `Enterprise Tech and Health & Life Sciences` sectors.
+- Investors and incubators should enhance their support infrastructure, including mentorship, funding, and resources, to capitalize on this surge and nurture promising startups.
+
